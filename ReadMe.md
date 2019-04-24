@@ -3,8 +3,8 @@
 Two main failure cases are 
 1. Missing objects when the bounding boxes are similar
 
-![alt text](./artefact1/zebra1.png "Missing zebras with similar bounding boxes")
-![alt text](./artefact1/000000537590.png "Not so pretty detection")
+![alt text](./artefact1/resnet50-faster-rcnn_fpn/zebra1.png "Missing zebras with similar bounding boxes")
+![alt text](./artefact1/resnet50-faster-rcnn_fpn/000000537590.png "Not so pretty detection")
 
 More Images of this type are in artefact1/. General feature of these artefacts is that there is either bad localization(i.e, bounding box predicted) or completely missed bounding boxes.
 
