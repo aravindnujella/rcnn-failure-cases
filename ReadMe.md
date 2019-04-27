@@ -1,3 +1,5 @@
+Examples from MSCOCO dataset for the similar artifacts are available at https://drive.google.com/open?id=1iPQNoTNqTuDhNECCX4j7aKkDZTPDTq3T
+
 # Curated List of Faster/MaskRCNN failure cases
 
 Two main failure cases are 
@@ -19,5 +21,3 @@ More Images of this type are in artefact1/. General feature of these artefacts i
 
 
 More Images of this type are in artefact2/. These artefacts miss global context and misclassify some of the RoIs which a human wouldn't.
-
-Examples from MSCOCO dataset for the similar artifacts are available at https://drive.google.com/open?id=1iPQNoTNqTuDhNECCX4j7aKkDZTPDTq3T
